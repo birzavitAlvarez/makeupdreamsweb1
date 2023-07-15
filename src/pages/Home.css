@@ -1,0 +1,33 @@
+.titulo{
+    color: hotpink;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 80px;
+}
+
+.card-tamanio{
+    width: 20rem;
+    margin: 5px;
+}
+
+.subtitulo{
+    color: hotpink;
+    font-family: 'Dancing Script', cursive;
+    font-size: 35px;
+}
+
+.links{
+    text-decoration: none;
+}
+
+p{
+    color: black;
+}
+
+.card-tamanio-user{
+    width: 35rem;
+}
+
+.card-blog{
+    width: 35rem;
+}
